@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_habits">Habits</string>
+    <string name="nav_mood">Mood</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Habits -->
+    <string name="hint_add_habit">Add a habit</string>
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="label_today_progress">%1$d%% today</string>
+    <string name="label_today_progress_initial">0% today</string>
+
+    <!-- Mood -->
+    <string name="prompt_how_feel">How do you feel?</string>
+    <string name="hint_add_note">Add a note (optional)</string>
+    <string name="action_log_mood">Log Mood</string>
+    <string name="action_share_weekly">Share Weekly Summary</string>
+    <string name="share_title">Share mood summary</string>
+    <string name="share_prefix">My week in moods:\n%1$s</string>
+
+    <!-- Settings / Hydration -->
+    <string name="label_hydration_interval">Hydration reminder interval (minutes)</string>
+    <string name="action_save_interval">Save</string>
+    <string name="notif_hydration_title">Hydration Reminder</string>
+    <string name="notif_hydration_text">Time to drink some water</string>
+</resources>
